@@ -36,85 +36,120 @@ returns, missing customer identifiers, and invalid values.
 
 ## Project Structure
 
+```text
 ecommerce-analytics/
 ├── data/
-│ ├── raw.csv
-│ ├── cleaned_revenue.csv
-│ ├── cleaned_customers.csv
-│ ├── customer_summary.csv
-│ ├── cohort_counts.csv
-│ ├── sql_monthly_kpis.csv
-│ └── sql_cohort_retention.csv
+│   ├── raw.csv
+│   ├── cleaned_revenue.csv
+│   ├── cleaned_customers.csv
+│   ├── customer_summary.csv
+│   ├── cohort_counts.csv
+│   ├── sql_monthly_kpis.csv
+│   └── sql_cohort_retention.csv
 ├── notebooks/
-│ ├── 01_data_cleaning.ipynb
-│ └── 02_sql_analysis.ipynb
+│   ├── 01_data_cleaning.ipynb
+│   └── 02_sql_analysis.ipynb
 ├── sql/
-│ ├── schema.sql
-│ └── queries.sql
+│   ├── schema.sql
+│   └── queries.sql
 ├── .gitignore
 ├── README.md
 └── requirements.txt
 
 ---
 
-## Methodology
+How to Run
 
-### 1. Data Cleaning & Preparation
+Clone the repository
 
-- Inspected raw transaction data for data quality issues
-- Removed cancelled invoices and invalid prices
-- Preserved returns as business events
-- Created revenue features and time-based fields
-- Split datasets by analytical purpose:
-  - revenue reporting
-  - customer-level analytics
+Create and activate a virtual environment
 
-### 2. Revenue & KPI Analysis
+Install dependencies:
 
-- Monthly order counts
-- Gross and net revenue
-- Average order value (AOV)
+pip install -r requirements.txt
 
-### 3. Customer Analytics
 
-- Customer-level aggregation (orders, revenue, recency)
-- Identification of high-value and at-risk customers
+Run notebooks in order:
 
-### 4. Cohort Retention Analysis
+01_data_cleaning.ipynb
 
-- Defined cohorts by first purchase month
-- Calculated cohort retention over time
-- Visualized retention using a heatmap
+02_sql_analysis.ipynb
 
-### 5. SQL Mirror
+Methodology
+1. Data Cleaning & Preparation
 
-- Reproduced all key analytics using SQL (DuckDB)
-- Validated parity between Python and SQL results
-- Exported SQL outputs for downstream BI use
+Inspected raw transaction data for data quality issues
 
----
+Removed cancelled invoices and invalid prices
 
-## Key Insights
+Preserved returns as business events
 
-- Customer retention varies significantly by acquisition cohort
-- Early cohorts (e.g., Dec 2010) show stronger long-term retention
-- Revenue KPIs and cohort metrics align consistently across Python and SQL
-- Clean separation of revenue vs customer analytics improves analytical integrity
+Created revenue features and time-based fields
 
----
+Split datasets by analytical purpose:
 
-## Tools & Technologies
+revenue reporting
 
-- Python (pandas, matplotlib, seaborn)
-- SQL (DuckDB)
-- Jupyter Notebooks
-- Git / GitHub
+customer-level analytics
 
----
+Note: Cancelled invoices were removed from analysis; returned transactions
+recorded as cancellations are therefore excluded from revenue KPIs by design.
 
-## Notes
+2. Revenue & KPI Analysis
+
+Monthly order counts
+
+Gross and net revenue
+
+Average order value (AOV)
+
+3. Customer Analytics
+
+Customer-level aggregation (orders, revenue, recency)
+
+Identification of high-value and at-risk customers
+
+4. Cohort Retention Analysis
+
+Defined cohorts by first purchase month
+
+Calculated cohort retention over time
+
+Visualized retention using a heatmap
+
+5. SQL Mirror
+
+Reproduced all key analytics using SQL (DuckDB)
+
+Validated parity between Python and SQL results
+
+Exported SQL outputs for downstream BI use
+
+Key Insights
+
+Customer retention varies significantly by acquisition cohort
+
+Early cohorts (e.g., Dec 2010) show stronger long-term retention
+
+Revenue KPIs and cohort metrics align consistently across Python and SQL
+
+Clean separation of revenue vs customer analytics improves analytical integrity
+
+Tools & Technologies
+
+Python (pandas, matplotlib, seaborn)
+
+SQL (DuckDB)
+
+Jupyter Notebooks
+
+Git / GitHub
+
+Notes
 
 This project emphasizes analytics correctness, reproducibility, and
-business reasoning over predictive modeling. It serves as a strong
-foundation for future work in forecasting, customer lifetime value,
-and machine learning.
+business reasoning over predictive modeling. The workflow mirrors
+real-world analytics practices and serves as a strong foundation
+for future work in forecasting, customer lifetime value, and
+machine learning applications.
+```
