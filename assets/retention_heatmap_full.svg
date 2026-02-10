@@ -1,0 +1,371 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528" height="468" viewBox="0 0 528 468">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="20" y="30" font-family="Arial, sans-serif" font-size="18" fill="#0f172a">Cohort Retention (full dataset)</text>
+<text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#475569">Each cell shows retention rate for a cohort month across months since first purchase.</text>
+<text x="163.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">0</text>
+<text x="189.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">1</text>
+<text x="215.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">2</text>
+<text x="241.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">3</text>
+<text x="267.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">4</text>
+<text x="293.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">5</text>
+<text x="319.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">6</text>
+<text x="345.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">7</text>
+<text x="371.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">8</text>
+<text x="397.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">9</text>
+<text x="423.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">10</text>
+<text x="449.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">11</text>
+<text x="475.0" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#334155">12</text>
+<text x="140" y="88" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2010-12</text>
+<rect x="150" y="70" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="70" width="26" height="26" fill="rgb(158,185,215)" stroke="#e2e8f0"/>
+<text x="189.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">37%</text>
+<rect x="202" y="70" width="26" height="26" fill="rgb(167,192,219)" stroke="#e2e8f0"/>
+<text x="215.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">32%</text>
+<rect x="228" y="70" width="26" height="26" fill="rgb(154,182,213)" stroke="#e2e8f0"/>
+<text x="241.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">38%</text>
+<rect x="254" y="70" width="26" height="26" fill="rgb(159,186,215)" stroke="#e2e8f0"/>
+<text x="267.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">36%</text>
+<rect x="280" y="70" width="26" height="26" fill="rgb(152,180,212)" stroke="#e2e8f0"/>
+<text x="293.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">40%</text>
+<rect x="306" y="70" width="26" height="26" fill="rgb(159,186,215)" stroke="#e2e8f0"/>
+<text x="319.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">36%</text>
+<rect x="332" y="70" width="26" height="26" fill="rgb(161,188,216)" stroke="#e2e8f0"/>
+<text x="345.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">35%</text>
+<rect x="358" y="70" width="26" height="26" fill="rgb(160,187,216)" stroke="#e2e8f0"/>
+<text x="371.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">35%</text>
+<rect x="384" y="70" width="26" height="26" fill="rgb(152,181,212)" stroke="#e2e8f0"/>
+<text x="397.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">40%</text>
+<rect x="410" y="70" width="26" height="26" fill="rgb(156,184,214)" stroke="#e2e8f0"/>
+<text x="423.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">37%</text>
+<rect x="436" y="70" width="26" height="26" fill="rgb(130,165,201)" stroke="#e2e8f0"/>
+<text x="449.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">50%</text>
+<rect x="462" y="70" width="26" height="26" fill="rgb(178,200,224)" stroke="#e2e8f0"/>
+<text x="475.0" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">27%</text>
+<text x="140" y="114" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-01</text>
+<rect x="150" y="96" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="96" width="26" height="26" fill="rgb(187,207,229)" stroke="#e2e8f0"/>
+<text x="189.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">22%</text>
+<rect x="202" y="96" width="26" height="26" fill="rgb(178,200,224)" stroke="#e2e8f0"/>
+<text x="215.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">27%</text>
+<rect x="228" y="96" width="26" height="26" fill="rgb(185,206,228)" stroke="#e2e8f0"/>
+<text x="241.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">23%</text>
+<rect x="254" y="96" width="26" height="26" fill="rgb(167,192,219)" stroke="#e2e8f0"/>
+<text x="267.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">32%</text>
+<rect x="280" y="96" width="26" height="26" fill="rgb(174,197,222)" stroke="#e2e8f0"/>
+<text x="293.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">29%</text>
+<rect x="306" y="96" width="26" height="26" fill="rgb(182,203,226)" stroke="#e2e8f0"/>
+<text x="319.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">25%</text>
+<rect x="332" y="96" width="26" height="26" fill="rgb(183,204,227)" stroke="#e2e8f0"/>
+<text x="345.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">24%</text>
+<rect x="358" y="96" width="26" height="26" fill="rgb(171,195,221)" stroke="#e2e8f0"/>
+<text x="371.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">30%</text>
+<rect x="384" y="96" width="26" height="26" fill="rgb(166,191,219)" stroke="#e2e8f0"/>
+<text x="397.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">33%</text>
+<rect x="410" y="96" width="26" height="26" fill="rgb(158,185,215)" stroke="#e2e8f0"/>
+<text x="423.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">36%</text>
+<rect x="436" y="96" width="26" height="26" fill="rgb(208,223,239)" stroke="#e2e8f0"/>
+<text x="449.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">12%</text>
+<rect x="462" y="96" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="140" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-02</text>
+<rect x="150" y="122" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="122" width="26" height="26" fill="rgb(194,212,232)" stroke="#e2e8f0"/>
+<text x="189.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">19%</text>
+<rect x="202" y="122" width="26" height="26" fill="rgb(194,212,232)" stroke="#e2e8f0"/>
+<text x="215.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">19%</text>
+<rect x="228" y="122" width="26" height="26" fill="rgb(174,198,223)" stroke="#e2e8f0"/>
+<text x="241.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">28%</text>
+<rect x="254" y="122" width="26" height="26" fill="rgb(177,200,224)" stroke="#e2e8f0"/>
+<text x="267.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">27%</text>
+<rect x="280" y="122" width="26" height="26" fill="rgb(182,203,226)" stroke="#e2e8f0"/>
+<text x="293.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">25%</text>
+<rect x="306" y="122" width="26" height="26" fill="rgb(181,202,226)" stroke="#e2e8f0"/>
+<text x="319.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">25%</text>
+<rect x="332" y="122" width="26" height="26" fill="rgb(175,198,223)" stroke="#e2e8f0"/>
+<text x="345.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">28%</text>
+<rect x="358" y="122" width="26" height="26" fill="rgb(182,203,226)" stroke="#e2e8f0"/>
+<text x="371.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">25%</text>
+<rect x="384" y="122" width="26" height="26" fill="rgb(170,194,221)" stroke="#e2e8f0"/>
+<text x="397.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">31%</text>
+<rect x="410" y="122" width="26" height="26" fill="rgb(218,230,244)" stroke="#e2e8f0"/>
+<text x="423.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">7%</text>
+<rect x="436" y="122" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="122" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="166" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-03</text>
+<rect x="150" y="148" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="148" width="26" height="26" fill="rgb(201,218,236)" stroke="#e2e8f0"/>
+<text x="189.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">15%</text>
+<rect x="202" y="148" width="26" height="26" fill="rgb(181,202,226)" stroke="#e2e8f0"/>
+<text x="215.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">25%</text>
+<rect x="228" y="148" width="26" height="26" fill="rgb(191,210,231)" stroke="#e2e8f0"/>
+<text x="241.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">20%</text>
+<rect x="254" y="148" width="26" height="26" fill="rgb(187,207,229)" stroke="#e2e8f0"/>
+<text x="267.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">22%</text>
+<rect x="280" y="148" width="26" height="26" fill="rgb(198,215,234)" stroke="#e2e8f0"/>
+<text x="293.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">17%</text>
+<rect x="306" y="148" width="26" height="26" fill="rgb(178,200,224)" stroke="#e2e8f0"/>
+<text x="319.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">27%</text>
+<rect x="332" y="148" width="26" height="26" fill="rgb(185,206,228)" stroke="#e2e8f0"/>
+<text x="345.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">23%</text>
+<rect x="358" y="148" width="26" height="26" fill="rgb(175,198,223)" stroke="#e2e8f0"/>
+<text x="371.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">28%</text>
+<rect x="384" y="148" width="26" height="26" fill="rgb(214,227,242)" stroke="#e2e8f0"/>
+<text x="397.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">9%</text>
+<rect x="410" y="148" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="423.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="436" y="148" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="148" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="192" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-04</text>
+<rect x="150" y="174" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="174" width="26" height="26" fill="rgb(189,208,230)" stroke="#e2e8f0"/>
+<text x="189.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">21%</text>
+<rect x="202" y="174" width="26" height="26" fill="rgb(191,210,231)" stroke="#e2e8f0"/>
+<text x="215.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">20%</text>
+<rect x="228" y="174" width="26" height="26" fill="rgb(189,209,230)" stroke="#e2e8f0"/>
+<text x="241.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">21%</text>
+<rect x="254" y="174" width="26" height="26" fill="rgb(192,211,231)" stroke="#e2e8f0"/>
+<text x="267.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">20%</text>
+<rect x="280" y="174" width="26" height="26" fill="rgb(186,206,228)" stroke="#e2e8f0"/>
+<text x="293.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">23%</text>
+<rect x="306" y="174" width="26" height="26" fill="rgb(188,208,229)" stroke="#e2e8f0"/>
+<text x="319.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">22%</text>
+<rect x="332" y="174" width="26" height="26" fill="rgb(179,201,225)" stroke="#e2e8f0"/>
+<text x="345.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">26%</text>
+<rect x="358" y="174" width="26" height="26" fill="rgb(217,229,243)" stroke="#e2e8f0"/>
+<text x="371.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">7%</text>
+<rect x="384" y="174" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="397.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="410" y="174" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="423.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="436" y="174" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="174" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="191" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="218" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-05</text>
+<rect x="150" y="200" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="200" width="26" height="26" fill="rgb(193,212,232)" stroke="#e2e8f0"/>
+<text x="189.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">19%</text>
+<rect x="202" y="200" width="26" height="26" fill="rgb(197,214,234)" stroke="#e2e8f0"/>
+<text x="215.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">17%</text>
+<rect x="228" y="200" width="26" height="26" fill="rgb(197,214,234)" stroke="#e2e8f0"/>
+<text x="241.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">17%</text>
+<rect x="254" y="200" width="26" height="26" fill="rgb(190,209,230)" stroke="#e2e8f0"/>
+<text x="267.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">21%</text>
+<rect x="280" y="200" width="26" height="26" fill="rgb(185,205,228)" stroke="#e2e8f0"/>
+<text x="293.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">23%</text>
+<rect x="306" y="200" width="26" height="26" fill="rgb(178,201,225)" stroke="#e2e8f0"/>
+<text x="319.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">26%</text>
+<rect x="332" y="200" width="26" height="26" fill="rgb(212,226,241)" stroke="#e2e8f0"/>
+<text x="345.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">10%</text>
+<rect x="358" y="200" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="371.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="384" y="200" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="397.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="410" y="200" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="423.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="436" y="200" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="200" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="244" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-06</text>
+<rect x="150" y="226" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="226" width="26" height="26" fill="rgb(197,214,233)" stroke="#e2e8f0"/>
+<text x="189.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">17%</text>
+<rect x="202" y="226" width="26" height="26" fill="rgb(200,217,235)" stroke="#e2e8f0"/>
+<text x="215.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">16%</text>
+<rect x="228" y="226" width="26" height="26" fill="rgb(178,201,225)" stroke="#e2e8f0"/>
+<text x="241.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">26%</text>
+<rect x="254" y="226" width="26" height="26" fill="rgb(185,206,228)" stroke="#e2e8f0"/>
+<text x="267.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">23%</text>
+<rect x="280" y="226" width="26" height="26" fill="rgb(164,190,218)" stroke="#e2e8f0"/>
+<text x="293.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">33%</text>
+<rect x="306" y="226" width="26" height="26" fill="rgb(212,226,241)" stroke="#e2e8f0"/>
+<text x="319.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">10%</text>
+<rect x="332" y="226" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="345.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="358" y="226" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="371.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="384" y="226" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="397.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="410" y="226" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="423.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="436" y="226" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="226" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="270" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-07</text>
+<rect x="150" y="252" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="252" width="26" height="26" fill="rgb(195,213,233)" stroke="#e2e8f0"/>
+<text x="189.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">18%</text>
+<rect x="202" y="252" width="26" height="26" fill="rgb(190,209,230)" stroke="#e2e8f0"/>
+<text x="215.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">21%</text>
+<rect x="228" y="252" width="26" height="26" fill="rgb(187,207,229)" stroke="#e2e8f0"/>
+<text x="241.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">22%</text>
+<rect x="254" y="252" width="26" height="26" fill="rgb(177,200,224)" stroke="#e2e8f0"/>
+<text x="267.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">27%</text>
+<rect x="280" y="252" width="26" height="26" fill="rgb(209,224,240)" stroke="#e2e8f0"/>
+<text x="293.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">11%</text>
+<rect x="306" y="252" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="319.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="332" y="252" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="345.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="358" y="252" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="371.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="384" y="252" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="397.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="410" y="252" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="423.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="436" y="252" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="252" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="269" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="296" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-08</text>
+<rect x="150" y="278" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="278" width="26" height="26" fill="rgb(190,209,230)" stroke="#e2e8f0"/>
+<text x="189.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">21%</text>
+<rect x="202" y="278" width="26" height="26" fill="rgb(182,203,226)" stroke="#e2e8f0"/>
+<text x="215.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">25%</text>
+<rect x="228" y="278" width="26" height="26" fill="rgb(183,204,227)" stroke="#e2e8f0"/>
+<text x="241.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">24%</text>
+<rect x="254" y="278" width="26" height="26" fill="rgb(207,222,238)" stroke="#e2e8f0"/>
+<text x="267.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">12%</text>
+<rect x="280" y="278" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="293.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="306" y="278" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="319.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="332" y="278" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="345.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="358" y="278" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="371.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="384" y="278" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="397.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="410" y="278" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="423.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="436" y="278" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="278" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="322" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-09</text>
+<rect x="150" y="304" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="304" width="26" height="26" fill="rgb(184,205,228)" stroke="#e2e8f0"/>
+<text x="189.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">23%</text>
+<rect x="202" y="304" width="26" height="26" fill="rgb(171,195,221)" stroke="#e2e8f0"/>
+<text x="215.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">30%</text>
+<rect x="228" y="304" width="26" height="26" fill="rgb(209,223,239)" stroke="#e2e8f0"/>
+<text x="241.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">11%</text>
+<rect x="254" y="304" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="267.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="280" y="304" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="293.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="306" y="304" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="319.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="332" y="304" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="345.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="358" y="304" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="371.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="384" y="304" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="397.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="410" y="304" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="423.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="436" y="304" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="304" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="321" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="348" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-10</text>
+<rect x="150" y="330" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="330" width="26" height="26" fill="rgb(183,204,227)" stroke="#e2e8f0"/>
+<text x="189.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">24%</text>
+<rect x="202" y="330" width="26" height="26" fill="rgb(208,223,239)" stroke="#e2e8f0"/>
+<text x="215.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">11%</text>
+<rect x="228" y="330" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="241.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="254" y="330" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="267.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="280" y="330" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="293.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="306" y="330" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="319.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="332" y="330" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="345.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="358" y="330" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="371.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="384" y="330" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="397.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="410" y="330" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="423.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="436" y="330" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="330" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="374" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-11</text>
+<rect x="150" y="356" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="356" width="26" height="26" fill="rgb(209,224,240)" stroke="#e2e8f0"/>
+<text x="189.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">11%</text>
+<rect x="202" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="215.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="228" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="241.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="254" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="267.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="280" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="293.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="306" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="319.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="332" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="345.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="358" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="371.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="384" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="397.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="410" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="423.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="436" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="356" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="140" y="400" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#334155">2011-12</text>
+<rect x="150" y="382" width="26" height="26" fill="rgb(31,90,153)" stroke="#e2e8f0"/>
+<text x="163.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">100%</text>
+<rect x="176" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="189.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="202" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="215.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="228" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="241.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="254" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="267.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="280" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="293.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="306" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="319.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="332" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="345.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="358" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="371.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="384" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="397.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="410" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="423.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="436" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="449.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<rect x="462" y="382" width="26" height="26" fill="rgb(232,241,251)" stroke="#e2e8f0"/>
+<text x="475.0" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0f172a">0%</text>
+<text x="319.0" y="453" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#334155">Months Since First Purchase</text>
+<text x="20" y="239.0" font-family="Arial, sans-serif" font-size="11" fill="#334155">Cohort Month</text>
+</svg>
