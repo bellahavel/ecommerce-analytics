@@ -15,13 +15,13 @@ A reproducible analytics pipeline that transforms raw e-commerce transactions in
 
 ## Results
 
-Headline results (sample dataset):
+Summary (from `data/sample_raw.csv`):
 
-- Monthly revenue and AOV trends are stable after cleaning.
-- Cohort retention shows a clear drop-off after the first month.
-- Early cohorts retain meaningfully more customers than later cohorts.
+- Revenue and AOV stabilize after cleaning.
+- Retention drops sharply after month 1.
+- Earlier cohorts retain more customers than later cohorts.
 
-Note: The visualization below is generated from `data/sample_raw.csv`.
+Note: The chart below is generated from the sample file, so exact values will differ on the full dataset.
 
 ![Sample Cohort Retention](assets/retention_heatmap_sample.svg)
 
