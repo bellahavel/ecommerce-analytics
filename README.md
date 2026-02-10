@@ -22,6 +22,7 @@ Summary (from full dataset):
 - Earlier cohorts retain more customers than later cohorts.
 
 Note: The chart below is generated from the full dataset.
+If you do not have `data/raw.csv`, run the notebook to regenerate the chart locally.
 
 ![Cohort Retention](assets/retention_heatmap_full.svg)
 
@@ -78,8 +79,9 @@ ecommerce-analytics/
 
 1. Clone the repository.
 2. Create and activate a virtual environment.
-3. Install dependencies.
-4. Download the full dataset and save it as `data/raw.csv` (see Data Files section).
+3. Use Python 3.10 or newer.
+4. Install dependencies.
+5. Download the full dataset and save it as `data/raw.csv` (see Data Files section).
 
 ```bash
 pip install -r requirements.txt
@@ -91,7 +93,7 @@ Or:
 make setup
 ```
 
-5. Run the notebooks in order.
+6. Run the notebooks in order.
 
 - `notebooks/01_data_cleaning.ipynb`
 - `notebooks/02_sql_analysis.ipynb`
