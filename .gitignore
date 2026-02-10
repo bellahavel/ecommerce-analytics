@@ -10,3 +10,7 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Data (keep small sample)
+data/*.csv
+!data/sample_raw.csv
